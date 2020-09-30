@@ -1,4 +1,4 @@
-This is to initialise the file.
+This is to initialise the file. //file is initialised
 The projects aims at:
 
 (a) Finding the Information Gain:
